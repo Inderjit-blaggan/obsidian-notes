@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "15bf657109765bed",
+    "type": "split",
+    "children": [
+      {
+        "id": "994a8a8de919c4da",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Windows.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2ca9828b5c242fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba5c21abed24fe36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15b6d8b56e0d1b92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d7d077c023b2c8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "docker system ",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b7f26070182cb89",
+    "type": "split",
+    "children": [
+      {
+        "id": "8388279103aee663",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f807d3e87e416955",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Windows.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be228b565f533982",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fc82e7520f9fed09",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "721d39e0bad4a0d5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "994a8a8de919c4da",
+  "lastOpenFiles": [
+    "Windows.md",
+    "Kubernetes/Kubernetes Questions.md",
+    "Jenkins/Maven Interview Questions.md",
+    "Jenkins/Maven Tool.md",
+    "Jenkins/SonarQube Tool.md",
+    "Jenkins/Lab Setup for Jenkins.md",
+    "Docker/Docker Commands.md",
+    "Docker/docker run command.md",
+    "Docker/Docker logs.md",
+    "Kubernetes/AWS EKS Master Class - Handson 7 - AWS EBS CSI driver.md"
+  ]
+}

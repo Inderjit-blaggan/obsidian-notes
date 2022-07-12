@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Obsdn-Dark-Rmx",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "tag"
+  ],
+  "baseFontSize": 11
+}
