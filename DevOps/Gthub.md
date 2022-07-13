@@ -8,7 +8,7 @@
 ![[Pasted image 20220701111646.png]]
 
 
-**Step 3:** Add the details of the account in the config file and create seprate configs profile from them
+**Step 3:** Add the details of the account in the config file `~/.ssh/config` and create seprate configs profile from them
 ```
 # Key for usual repositories on github.com
 Host github.com
